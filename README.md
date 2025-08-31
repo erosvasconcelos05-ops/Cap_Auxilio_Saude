@@ -132,7 +132,7 @@
     });
 
     window.onload = function() {
-      addMessage("ChatBot: Olá! 👋 Sou um assistente da CAP. Posso responder sobre:<br>1. Elegibilidade<br>2. Prazos e Procedimentos<br>3. Plano UNIMED / HAPVIDA<br>4. Valores de Reembolso<br><br><i>Se sua dúvida não for resolvida aqui, envie e-mail: <a href='mailto:cap@senac.ce.br'>cap@senac.ce.br</a></i>", "bot");
+      addMessage("ChatBot: Olá! 👋 Sou um assistente da CAP. Posso responder sobre o Auxílio Saúde:<br>1. Elegibilidade<br>2. Prazos e Procedimentos<br>3. Plano UNIMED / HAPVIDA<br>4. Valores de Reembolso<br><br><i>Se sua dúvida não for resolvida aqui, envie e-mail: <a href='mailto:cap@senac.ce.br'>cap@senac.ce.br</a></i>", "bot");
     };
   </script>
 </body>
