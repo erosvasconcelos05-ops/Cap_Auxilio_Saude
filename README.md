@@ -136,12 +136,12 @@
       } else if (msg.includes("valores") || msg.includes("reembolso") || msg.includes("cargo") || msg === "4" || msg === "4.") {
         resposta = "<b>Valores de Reembolso por Cargo</b><br>" +
                    "• <b>Operacional I e II:</b> Até R$ 377,62 (empregado) e R$ 125,87 (dependente).<br>" +
-                   "• <b>Professor (mensalista):</b> Até R$ 363,32 / R$ 121,11<br>" +
-                   "• <b>Professor/Instrutor (horista):</b> Até R$ 217,99 / sem auxílio dependente.<br>" +
-                   "• <b>Técnico I, II, III, IV/Especialista e V:</b> Até R$ 220,19 / R$ 73,40.<br>" +
-                   "• <b>Coordenação Corporativa e Especialista II/Tático I:</b> Até R$ 138,63 / R$ 46,21.<br>" +
-                   "• <b>Piso Salarial I e II, Especialista III/Tático II, Especialista IV/Tático III e Gerência Corporativa SENAC/SESC:</b> Até R$ 132,82 / R$ 44,28.<br>" +
-                   "• <b>Especialista V, Estratégico I e II:</b> Até R$ 99,62 / R$ 33,21.";
+                   "• <b>Professor (mensalista):</b> Até R$ 363,32 (empregado) / R$ 121,11 (dependente).<br>" +
+                   "• <b>Professor/Instrutor (horista):</b> Até R$ 217,99 (empregado) / sem auxílio dependente.<br>" +
+                   "• <b>Técnico I, II, III, IV/Especialista e V:</b> Até R$ 220,19 (empregado) / R$ 73,40 (dependente).<br>" +
+                   "• <b>Coordenação Corporativa e Especialista II/Tático I:</b> Até R$ 138,63 (empregado) / R$ 46,21 (dependente)<br>" +
+                   "• <b>Piso Salarial I e II, Especialista III/Tático II, Especialista IV/Tático III e Gerência Corporativa SENAC/SESC:</b> Até R$ 132,82 (empregado) / R$ 44,28 (dependente).<br>" +
+                   "• <b>Especialista V, Estratégico I e II:</b> Até R$ 99,62 (empregado) / R$ 33,21 (dependente).";
 
       } else if (msg.includes("obrigado") || msg.includes("obrigada") || msg.includes("valeu")) {
         resposta = "De nada! Se tiver mais alguma dúvida, é só perguntar.";
